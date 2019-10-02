@@ -6,7 +6,7 @@
 Summary:	K Desktop Environment - IDE tailored for development of Plasma components
 Name:		kde4-plasmate
 Version:	1.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/plasmate/%{version}/src/%{orgname}-%{version}.tar.gz
